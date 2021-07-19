@@ -183,7 +183,7 @@ ul{
 
 .links-container ul li a{
     display: inline-block;
-    color: var(--textoGris);
+    color: var(--secondColor);
     font-size: 1.7rem;
     margin: 0 2.5rem;
     padding: 0.8rem;
